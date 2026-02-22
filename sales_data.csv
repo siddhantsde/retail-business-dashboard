@@ -1,0 +1,65 @@
+Date,Invoice_ID,Product_Category,Product_Name,Quantity,Unit_Price,Cost_Price,Discount,Payment_Method,Customer_Type,Store_Type
+2026-01-01,INV001,Grocery,Rice 5kg,1,320,250,5,Cash,Regular,Offline
+2026-01-01,INV002,Grocery,Milk 1L,4,50,35,0,UPI,Member,Offline
+2026-01-01,INV003,Personal Care,Shampoo,2,180,120,10,Card,Member,Offline
+2026-01-02,INV004,Grocery,Wheat Flour 5kg,1,280,210,5,Cash,Regular,Offline
+2026-01-02,INV005,Snacks,Biscuits Pack,6,25,15,0,Cash,Regular,Offline
+2026-01-02,INV006,Beverages,Cold Drink 2L,2,95,60,5,UPI,Member,Offline
+2026-01-03,INV007,Grocery,Oil 1L,3,150,110,0,Card,Member,Offline
+2026-01-03,INV008,Household,Detergent 1kg,2,210,160,5,UPI,Regular,Offline
+2026-01-03,INV009,Personal Care,Soap,5,40,25,0,Cash,Regular,Offline
+2026-01-04,INV010,Grocery,Sugar 1kg,4,45,30,0,Cash,Regular,Offline
+2026-01-04,INV011,Beverages,Tea 500g,1,220,150,5,Card,Member,Offline
+2026-01-05,INV012,Snacks,Chips,8,20,12,0,Cash,Regular,Offline
+2026-01-05,INV013,Grocery,Rice 5kg,1,320,250,10,UPI,Member,Offline
+2026-01-06,INV014,Grocery,Milk 1L,6,50,35,0,Cash,Regular,Offline
+2026-01-06,INV015,Household,Floor Cleaner,2,150,100,5,Card,Member,Offline
+2026-01-07,INV016,Grocery,Wheat Flour 5kg,1,280,210,5,UPI,Regular,Offline
+2026-01-07,INV017,Snacks,Biscuits Pack,10,25,15,0,Cash,Regular,Offline
+2026-01-07,INV018,Beverages,Juice 1L,3,110,70,5,Card,Member,Offline
+2026-01-08,INV019,Grocery,Oil 1L,2,150,110,0,Cash,Member,Offline
+2026-01-08,INV020,Personal Care,Toothpaste,3,90,60,5,UPI,Regular,Offline
+2026-01-09,INV021,Grocery,Rice 5kg,1,320,250,0,Cash,Regular,Offline
+2026-01-09,INV022,Beverages,Tea 500g,2,220,150,5,Card,Member,Offline
+2026-01-10,INV023,Snacks,Chips,12,20,12,0,Cash,Regular,Offline
+2026-01-10,INV024,Household,Detergent 1kg,3,210,160,5,UPI,Member,Offline
+2026-01-11,INV025,Grocery,Sugar 1kg,5,45,30,0,Cash,Regular,Offline
+2026-01-11,INV026,Personal Care,Soap,6,40,25,0,Cash,Regular,Offline
+2026-01-12,INV027,Grocery,Milk 1L,8,50,35,0,UPI,Member,Offline
+2026-01-12,INV028,Beverages,Cold Drink 2L,4,95,60,10,Card,Member,Offline
+2026-01-13,INV029,Grocery,Rice 5kg,2,320,250,5,Cash,Regular,Offline
+2026-01-13,INV030,Snacks,Biscuits Pack,15,25,15,0,Cash,Regular,Offline
+2026-01-14,INV031,Grocery,Oil 1L,4,150,110,5,UPI,Member,Offline
+2026-01-14,INV032,Household,Floor Cleaner,3,150,100,5,Card,Member,Offline
+2026-01-15,INV033,Grocery,Wheat Flour 5kg,1,280,210,0,Cash,Regular,Offline
+2026-01-15,INV034,Personal Care,Shampoo,3,180,120,10,UPI,Member,Offline
+2026-01-16,INV035,Snacks,Chips,10,20,12,0,Cash,Regular,Offline
+2026-01-16,INV036,Beverages,Juice 1L,4,110,70,5,Card,Member,Offline
+2026-01-17,INV037,Grocery,Sugar 1kg,6,45,30,0,Cash,Regular,Offline
+2026-01-17,INV038,Grocery,Milk 1L,7,50,35,0,UPI,Member,Offline
+2026-01-18,INV039,Household,Detergent 1kg,4,210,160,5,Card,Regular,Offline
+2026-01-18,INV040,Personal Care,Toothpaste,4,90,60,5,Cash,Regular,Offline
+2026-01-19,INV041,Grocery,Rice 5kg,2,320,250,5,UPI,Member,Offline
+2026-01-19,INV042,Beverages,Tea 500g,3,220,150,5,Card,Member,Offline
+2026-01-20,INV043,Snacks,Biscuits Pack,18,25,15,0,Cash,Regular,Offline
+2026-01-20,INV044,Grocery,Oil 1L,3,150,110,0,Cash,Regular,Offline
+2026-01-21,INV045,Grocery,Wheat Flour 5kg,2,280,210,5,UPI,Member,Offline
+2026-01-21,INV046,Household,Floor Cleaner,2,150,100,5,Card,Member,Offline
+2026-01-22,INV047,Grocery,Milk 1L,6,50,35,0,Cash,Regular,Offline
+2026-01-22,INV048,Personal Care,Soap,8,40,25,0,Cash,Regular,Offline
+2026-01-23,INV049,Snacks,Chips,14,20,12,0,Cash,Regular,Offline
+2026-01-23,INV050,Beverages,Cold Drink 2L,5,95,60,5,UPI,Member,Offline
+2026-01-24,INV051,Grocery,Sugar 1kg,4,45,30,0,Cash,Regular,Offline
+2026-01-24,INV052,Grocery,Rice 5kg,1,320,250,5,Card,Member,Offline
+2026-01-25,INV053,Household,Detergent 1kg,3,210,160,5,UPI,Member,Offline
+2026-01-25,INV054,Personal Care,Shampoo,2,180,120,10,Card,Member,Offline
+2026-01-26,INV055,Grocery,Milk 1L,9,50,35,0,Cash,Regular,Offline
+2026-01-26,INV056,Snacks,Biscuits Pack,20,25,15,0,Cash,Regular,Offline
+2026-01-27,INV057,Grocery,Oil 1L,5,150,110,5,UPI,Member,Offline
+2026-01-27,INV058,Beverages,Juice 1L,4,110,70,5,Card,Member,Offline
+2026-01-28,INV059,Grocery,Wheat Flour 5kg,2,280,210,0,Cash,Regular,Offline
+2026-01-28,INV060,Personal Care,Soap,10,40,25,0,Cash,Regular,Offline
+2026-01-29,INV061,Snacks,Chips,16,20,12,0,Cash,Regular,Offline
+2026-01-29,INV062,Grocery,Sugar 1kg,6,45,30,0,Cash,Regular,Offline
+2026-01-30,INV063,Grocery,Rice 5kg,2,320,250,5,UPI,Member,Offline
+2026-01-30,INV064,Household,Floor Cleaner,3,150,100,5,Card,Member,Offline

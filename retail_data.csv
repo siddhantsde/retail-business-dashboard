@@ -1,0 +1,30 @@
+Date,Invoice_ID,Product_Category,Product_Name,Quantity,Unit_Price,Cost_Price,Discount,Payment_Method,Customer_Type,Store_Type
+2026-02-01,INV001,Grocery,Rice 5kg,2,310,295,20,Cash,Regular,Offline
+2026-02-01,INV002,Grocery,Milk 1L,6,48,45,15,UPI,Regular,Offline
+2026-02-02,INV003,Grocery,Wheat Flour 5kg,2,270,255,20,Cash,Regular,Offline
+2026-02-03,INV004,Snacks,Chips,10,18,16,10,Cash,Regular,Offline
+2026-02-04,INV005,Grocery,Oil 1L,4,145,140,25,UPI,Regular,Offline
+2026-02-05,INV006,Personal Care,Soap,8,38,36,20,Cash,Regular,Offline
+2026-02-06,INV007,Grocery,Sugar 1kg,10,44,42,15,Cash,Regular,Offline
+2026-02-07,INV008,Grocery,Rice 5kg,3,310,295,30,Card,Member,Offline
+2026-02-08,INV009,Grocery,Milk 1L,8,48,45,20,Cash,Regular,Offline
+2026-02-09,INV010,Grocery,Wheat Flour 5kg,2,270,255,25,Cash,Regular,Offline
+2026-02-10,INV011,Snacks,Biscuits Pack,15,22,20,10,Cash,Regular,Offline
+2026-02-11,INV012,Grocery,Oil 1L,5,145,140,30,UPI,Member,Offline
+2026-02-12,INV013,Personal Care,Shampoo,3,170,160,35,Card,Regular,Offline
+2026-02-13,INV014,Grocery,Sugar 1kg,8,44,42,20,Cash,Regular,Offline
+2026-02-14,INV015,Grocery,Rice 5kg,2,310,295,25,Cash,Regular,Offline
+2026-02-15,INV016,Grocery,Milk 1L,5,48,45,15,Cash,Regular,Offline
+2026-02-16,INV017,Household,Detergent 1kg,2,200,195,30,Card,Regular,Offline
+2026-02-17,INV018,Grocery,Oil 1L,3,145,140,35,Cash,Regular,Offline
+2026-02-18,INV019,Grocery,Wheat Flour 5kg,1,270,255,25,Cash,Regular,Offline
+2026-02-19,INV020,Snacks,Chips,6,18,16,10,Cash,Regular,Offline
+2026-02-20,INV021,Grocery,Sugar 1kg,6,44,42,20,Cash,Regular,Offline
+2026-02-21,INV022,Grocery,Milk 1L,4,48,45,25,Cash,Regular,Offline
+2026-02-22,INV023,Grocery,Rice 5kg,2,310,295,30,Cash,Regular,Offline
+2026-02-23,INV024,Grocery,Oil 1L,2,145,140,35,Cash,Regular,Offline
+2026-02-24,INV025,Personal Care,Soap,4,38,36,25,Cash,Regular,Offline
+2026-02-25,INV026,Grocery,Sugar 1kg,4,44,42,20,Cash,Regular,Offline
+2026-02-26,INV027,Grocery,Milk 1L,3,48,45,25,Cash,Regular,Offline
+2026-02-27,INV028,Snacks,Biscuits Pack,8,22,20,15,Cash,Regular,Offline
+2026-02-28,INV029,Grocery,Rice 5kg,2,310,295,30,Cash,Regular,Offline
