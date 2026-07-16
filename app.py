@@ -36,6 +36,18 @@ with open("sales_march_2026_good.csv", "rb") as file:
     )
 
 # -----------------------------
+# Load Uploaded Dataset
+# -----------------------------
+if uploaded_file is None:
+    st.warning("Please upload your store transaction CSV file.")
+    st.stop()
+
+data = pd.read_csv(uploaded_file)
+
+# Convert Date column
+data["Date"] = pd.to_datetime(data["Date"])
+
+# -----------------------------
 # Calculated Columns
 # -----------------------------
 data["Revenue"] = data["Quantity"] * data["Unit_Price"] * (1 - data["Discount"]/100)
