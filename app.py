@@ -10,15 +10,30 @@ st.title("General Store Business Dashboard")
 # -----------------------------
 # Upload Dataset
 # -----------------------------
-st.sidebar.header("Upload Store Data")
-uploaded_file = st.sidebar.file_uploader("Upload CSV File", type=["csv"])
+st.sidebar.header("Store Transaction Data")
 
-if uploaded_file is None:
-    st.warning("Please upload your store transaction CSV file.")
-    st.stop()
+st.sidebar.info(
+"""
+Upload your store transaction CSV file.
 
-data = pd.read_csv(uploaded_file)
-data["Date"] = pd.to_datetime(data["Date"])
+If you're just testing the dashboard, download the sample dataset below.
+"""
+)
+
+uploaded_file = st.sidebar.file_uploader(
+    "Upload CSV File",
+    type=["csv"]
+)
+
+st.sidebar.markdown("### Don't have a dataset?")
+
+with open("sales_march_2026_good.csv", "rb") as file:
+    st.sidebar.download_button(
+        label="📥 Download Sample Dataset",
+        data=file,
+        file_name="sample_store_data.csv",
+        mime="text/csv"
+    )
 
 # -----------------------------
 # Calculated Columns
